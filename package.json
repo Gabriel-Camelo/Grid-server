@@ -8,6 +8,7 @@
   "license": "GNU GENERAL PUBLIC LICENSE v2",
   "private": true,
   "dependencies": {
+    "mongoose": "^8.0.1",
     "nodemon": "^3.0.1",
     "sucrase": "^3.34.0",
     "typescript": "^5.3.2"
